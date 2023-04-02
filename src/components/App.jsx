@@ -29,7 +29,6 @@ export function App() {
         break;
       default:
         throw new Error('Якась ...');
-        break;
     }
   };
 
